@@ -1,0 +1,46 @@
+body{
+    font-family: "Radio Canada Big", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  margin: 0;
+}
+section{
+    display: flex;
+}
+h1{
+    font-size: 65px;
+    padding-top: 13%;
+}
+.orange-color{
+    color: orange;
+}
+.gray-color{
+    color: rgb(90, 89, 89);
+}
+.width-half{
+    padding-top: 5%;
+    width: 45%;
+    padding-left: 5%;
+}
+.width-half img{
+    width: 80%;
+}
+.paragrap-size{
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 2%;
+}
+.link-button{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 81, 0),orange);
+    border-radius: 5px;
+    padding: 10px 40px;
+    box-shadow: 2px 2px 30px rgb(233, 180, 180);
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
