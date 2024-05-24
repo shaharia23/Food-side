@@ -11,6 +11,11 @@ h1{
     font-size: 65px;
     padding-top: 13%;
 }
+h2{
+    font-size: 52px;
+    padding-top: 13%;
+    color: rgb(100, 100, 100);
+}
 .orange-color{
     color: orange;
 }
@@ -42,5 +47,19 @@ h1{
 }
 .top-banner{
     background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+.contact-button{
+    text-decoration: none;
+    color: aliceblue;
+    font-size: 20px;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(255, 81, 0),orange);
+    border-radius: 5px;
+    padding: 10px 50px;
+    box-shadow: 2px 2px 30px rgb(179, 130, 130);
+}
+.middle-banner{
+    background-image: url(images/Frame\ 58.jpg);
     background-repeat: no-repeat;
 }
