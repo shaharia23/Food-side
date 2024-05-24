@@ -4,7 +4,7 @@ body{
   font-style: normal;
   margin: 0;
 }
-section{
+.coniner-flex{
     display: flex;
 }
 h1{
@@ -65,4 +65,31 @@ h2{
 .middle-banner{
     background-image: url(images/Frame\ 58.jpg);
     background-repeat: no-repeat;
+}
+.Recipie{
+    text-align: center;
+}
+.Recipie p{
+    text-align: center;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+.box-shadow{
+    width: 43%;
+    border-radius: 10px;
+    box-shadow: 10 10 40 gray;
+}
+.width-half-down{
+    width: 40%;
+    margin-left: 7%;
+    padding-left: 30%;
+    padding-right: 5%;
+    box-shadow: 10px 10px 50px gray;
+
+}
+#Subscriber{
+    padding-right: 20%;
+}
+#followe{
+    padding-right: 20%;
 }
