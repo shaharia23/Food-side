@@ -80,16 +80,37 @@ h2{
     box-shadow: 10 10 40 gray;
 }
 .width-half-down{
-    width: 40%;
-    margin-left: 7%;
-    padding-left: 30%;
-    padding-right: 5%;
+    width: 70%;
+    border-radius: 15px;
+    margin-left: 14%;
     box-shadow: 10px 10px 50px gray;
 
 }
 #Subscriber{
+    padding-left: 12%;
     padding-right: 20%;
 }
 #followe{
     padding-right: 20%;
+}
+.footer-color{
+    font-size: 30px;
+    text-align: center;
+    color: aliceblue;
+}
+footer{
+    background-color: black;
+    margin-top: 5%;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+footer p{
+    color: aliceblue;
+    text-align: center;
+    font-weight: 100;
+}
+.RESEVED{
+    padding-top: 20px;
+    font-size: 10px;
+    font-weight: 100px;
 }
